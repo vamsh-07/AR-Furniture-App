@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Furniture</string>
+    <string name="place_furniture">Tap to place furniture</string>
+</resources>
